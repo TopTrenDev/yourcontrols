@@ -19,7 +19,7 @@ crossbeam-channel = "0.5"
 derive_more = "0.99"
 dotenv_codegen = "0.15"
 dns-lookup = "2.0"
-indexmap = { version = "2.2", features = ["serde"] }
+indexmap = { version = "2.8", features = ["serde"] }
 laminar = { git = "https://github.com/Sequal32/laminar.git" }
 log = "0.4"
 num = "0.4"
