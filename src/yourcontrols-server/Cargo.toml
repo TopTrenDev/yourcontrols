@@ -19,7 +19,12 @@ rand = "0.9"
 semver = "1.0"
 simplelog = "0.12"
 serde = { version = "1.0", features = ["derive"] }
+dependabot/cargo/zstd-0.13.2
+rmp-serde = "1.1"
+zstd = "0.13"
+dependabot/cargo/zstd-0.13.2
 rmp-serde = "1.3"
 zstd = "0.12"
+dependabot/cargo/zstd-0.13.2 master
 yourcontrols-net = { path = "../yourcontrols-net" }
 yourcontrols-types = { path = "../yourcontrols-types" }
